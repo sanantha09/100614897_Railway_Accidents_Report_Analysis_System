@@ -53,7 +53,7 @@ class AccidentAnalyzerApp:
         # Configuration variables
         self.excel_path = None
         self.pdf_directory = r"C:\Users\minia\OneDrive\Desktop\Final_Report_ID" #Path to Directory
-        self.api_key = "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" #API Key
+        self.api_key = "" #API Key
         self.logo_path = r"C:\Users\minia\OneDrive\Desktop\Final_Report_ID\Logo\DerbyLogo.jpg"
         self.logo_image = None  # To store the PhotoImage object
         self.logo_label = None
